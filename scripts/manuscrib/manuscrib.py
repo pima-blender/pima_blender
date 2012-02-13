@@ -7,7 +7,7 @@
 bl_info = {
     "name": "ManuScrib",
     "author": "Pierre-Maël Crétinon (pima)",
-    "version": (0, 0, 4),
+    "version": (0, 0, 5),
     "blender": (2, 6, 2),
     "location": "Properties > Object data > ManuScrib panel",
     "description": "Modify selected curve Text content",
@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
 """
 copyleft: Copyright 2012 Pierre-Maël Crétinon
-licence: GPLv3
+licence: GPLv3+
 
 ***** BEGIN GPL LICENSE BLOCK *****
 This program is free software: you can redistribute it and/or modify
