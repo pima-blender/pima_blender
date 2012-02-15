@@ -1,0 +1,27 @@
+{{ScriptInfo
+|name= ManuScrib
+|tooltip= 
+|menu= Properties > Object data > ManuScrib panel
+|usage=
+On 3D view select a 3D text curve,
+Access the ManuScrib panel at the bottom of the Object data's property page,
+You can change your text via the input box, and validate with Enter : your text is updated in the 3D view.
+|version= 0.0.5
+|blender= 2.62
+|category= Object
+|author= Pierre-Maël Crétinon (pima)
+|license= GPLv3+
+|distribution= Extern
+|note= 
+|exe= 
+|download= https://raw.github.com/pima-blender/pima_blender/master/scripts/manuscrib/manuscrib.py
+|modules= 
+|deps= 
+|data= 
+|bugtracker= 
+|warning= 
+|link= 
+http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/ManuScrib (proposed final wiki path)
+|releaselog= 
+|issues= Can't copy/paste with mouse under X11.
+}}
